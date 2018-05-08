@@ -1,0 +1,38 @@
+{
+    "Autofill?": "Autofill?",
+    "Change One?": "Change One?",
+    "If collect succeed, what you will challenge?": "If collect succeed, what you will challenge?",
+    "How long to collect?": "How long to collect?",
+    "Minutes": "Minutes",
+    "What to collect?": "What to collect?",
+    "Gift": "Gift",
+    "Tap": "Tap",
+    "The count down is between 1 mins and 120 mins": "The count down is between 1 mins and 120 mins",
+    "Your challenge can't be empty.": "Your challenge can't be empty.",
+    "Please choose 'what to collect?'": "Please choose 'what to collect?'",
+    "If collect successfully, you need to challenge": "If collect successfully, you need to challenge",
+    "If collect successfully, streamer will challenge": "If collect successfully, streamer will challenge",
+    "End the Challenge": "End the Challenge",
+    "Challenge is Over": "Challenge is Over",
+    "You have finished collecting. Confirm to stop the Challenge?": "You have finished collecting. Confirm to stop the Challenge?",
+    "Confirm to end the challenge?": "Confirm to end the challenge?",
+    "Please end the challenge before you finish it.": "Please end the challenge before you finish it.",
+    "Confirm to end the challenge task?": "Confirm to end the challenge task?",
+    "Already finish the challenge?": "Already finish the challenge?",
+    "Streamer failed to collect ${num} ${name}, can't challenge to": "Streamer failed to collect ${num} ${name}, can't challenge to",
+    "Streamer successfully collected ${num} ${name}. Now time for": "Streamer successfully collected ${num} ${name}. Now time for",
+    "You haven't finished collecting. Confirm to stop the Challenge?": "You haven't finished collecting. Confirm to stop the Challenge?",
+    "The number of gifts should be an integer from 1 to 10000": "The number of gifts should be an integer from 1 to 10000",
+
+    "Please type questions for vote.": "Please type questions for vote.",
+    "Choice": "Choice",
+    "ADD": "ADD",
+    "Start": "Start",
+    "End": "End",
+    "Question and Choice can't be empty.": "Question and Choice can't be empty.",
+    "Confirm to end the vote?": "Confirm to end the vote?",
+
+
+    "test": "testen"
+
+}

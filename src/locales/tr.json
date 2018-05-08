@@ -1,0 +1,37 @@
+{
+    "Autofill?": "Otomatik doldurma?",
+    "Change One?": "Birini Değiştir?",
+    "If collect succeed, what you will challenge?": "Toplama başarılı olursa, neye meydan okuyacaksın ?",
+    "How long to collect?": "Toplama süresi ne kadar?",
+    "Minutes": "Dakikalar",
+    "What to collect?": "Toplama nedir?",
+    "Gift": "Hediye",
+    "Tap": "Dokunuş",
+    "The count down is between 1 mins and 120 mins": "Geri sayım 1 dakika ile 120 dakika arasındadır.",
+    "Your challenge can't be empty.": "Yarışmanız boş bırakılamaz.",
+    "Please choose 'what to collect?'": "Lütfen 'toplamanız gerekenleri' seçiniz.",
+    "If collect successfully, you need to challenge": "Eğer toplama başarılı olursa, meydan okuman gerekir",
+    "If collect successfully, streamer will challenge": "Eğer toplama başarılı olursa, yayıncı mücadele edecek:",
+    "End the Challenge": "Mücadeleyi bitir",
+    "Challenge is Over": "Mücadele bitti",
+    "You have finished collecting. Confirm to stop the Challenge?": "Toplama işlemini bitirdin.Mücadeleyi durdurmak için onaylayın?",
+    "Confirm to end the challenge?": "Yarışmayı bitirmek için onaylayın?",
+    "Please end the challenge before you finish it.": "Lütfen görev süresi dolmadan yarışmayı bitirin.",
+    "Confirm to end the challenge task?": "Yarışmayı bitirmek için onaylayın?",
+    "Already finish the challenge?": "Mücadele çoktan bitti mi ?",
+    "Streamer failed to collect ${num} ${name}, can't challenge to": "Yayıncı ${num} ${name}'yi toplayamadı, bu yüzden aşağıdakine meydan okuyamıyor",
+    "Streamer successfully collected ${num} ${name}. Now time for": "Yayıncı başarılı bir şekilde ${num} ${name} topladı. Şimdi",
+    "You haven't finished collecting. Confirm to stop the Challenge?": "Toplama işlemini henüz bitirmedin.Mücadeleyi durdurmak için onaylayın?",
+    "The number of gifts should be an integer from 1 to 10000": "Hediye sayısı 1 ile 10000 arasında bir tam sayı olmalıdır.",
+
+    "Please type questions for vote.": "Lütfen oy için soru yazın",
+    "Choice": "Seçim",
+    "ADD": "ekle",
+    "Start": "Başla",
+    "End": "Son",
+    "Question and Choice can't be empty.": "Soru ve Seçim boş olamaz.",
+    "Confirm to end the vote?": "Oylamayı sonlandırmak için onaylayın?",
+
+    
+    "test": "testtr"
+}
